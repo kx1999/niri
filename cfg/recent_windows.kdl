@@ -1,0 +1,14 @@
+    recent-windows {
+        debounce-ms 500
+        open-delay-ms 0
+
+        highlight {
+            active-color "#8BE9FD"
+            corner-radius 8
+        }
+
+        previews {
+            max-scale 0.15
+        }
+
+    }
